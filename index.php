@@ -20,3 +20,4 @@ define('APP_DEBUG', true);
 // 引入ThinkPHP入口文件
 require '../jycar.com/ThinkPHP/ThinkPHP.php';
 //include载入失败亦会继续运行,require则立即停止
+//这里是git测试的注释
